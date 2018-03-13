@@ -1,0 +1,955 @@
+Pixel Vision Skin for Steam - ChangeLog
+===========================
+         •created by Pulseh
+
+                 v2015-0101
+
+
+
+-- v2015-0101   (1st of January 2015)
+=============
+
+  • Final version.
+
+
+
+-- v2014-1204   (4th of December 2014)
+=============
+
+  • Proper support for the Streaming Beta.
+
+
+
+-- v2014-1203   (3rd of December 2014)
+=============
+
+  • Implemented new notifications and chat invite bars from the new Streaming Beta.
+
+
+
+-- v2014-1011   (11th of October 2014)
+=============
+
+  • Reimplemented the refresh button.
+
+  • Fixed the 'Repeat Once' button not displaying correctly.
+
+  • Fixed an alignment issue with the password field on the logon dialog.
+
+  • Moved the 'Parental Lock' button further to the left to avoid UI collisions.
+
+
+
+-- v2014-0925   (25th of September 2014)
+=============
+
+  • Support for the new Steam Music features.
+
+  • Fixed a bug causing the Big Picture button to appear out of place.
+
+  • Minor bug fixes (see Client Beta logs below).
+
+
+
+   -- v2014-0923 CLIENT BETA   (23rd of September 2014)
+   =========================
+
+     • Repositioned the BigPicture button after the last Steam Client update.
+
+     • Music pages text should now scale with any settings.ini font size options.
+
+
+
+   -- v2014-0904 CLIENT BETA   (4th of September 2014)
+   =========================
+
+     • Fixes for the recent Music Beta updates.
+
+     • Minor bug fixes.
+
+
+
+   -- v2014-0808 CLIENT BETA   (8th of August 2014)
+   =========================
+
+     • Updated the position of the 'Music' button in the Overlay.
+
+     • Repositioned the new 'Hide this game [...]' entry in the Category management dialog.
+
+
+
+   -- v2014-0726 CLIENT BETA   (26th of July 2014)
+   =========================
+
+     • Steam Music Beta support.
+
+     • More fixes regarding the IMEntry bar for Asian character input.
+
+
+
+-- v2014-0629  (29th of June 2014)
+=============
+
+  • The IMEntry bar should now appear for Asian character input (feedback needed).
+
+  • Added spacing to the download status bar for langauges where collision was occuring.
+
+  • Minor bug fixes.
+
+
+
+   -- v2014-0205 CLIENT BETA  (5th of February 2014)
+   =========================
+
+     • Preliminary In-Home Streaming beta support.
+
+     • Added locale.ini support for Ukrainian users.
+
+     • Game Title moved to the right of the Overlay in the 'Low Resolution Overlay' files.
+
+     • Added +3 & +4 font size tweaks.
+
+
+
+-- v2014-0108  (8th of January 2014)
+=============
+
+  • Several fixes related to the recent Family Options beta.
+
+  • Download page fixes.
+
+  • Minor bug fixes.
+
+
+
+   -- v2013-1214 CLIENT BETA  (14th of December 2013)
+   =========================
+
+     • Implemented several fixes related to the recent Family Options beta.
+
+     • Removed the maximum width limit from the news link on the Downloads page.
+
+
+
+-- v2013-1201  (1st of December 2013)
+=============
+
+  • Family Sharing related information should now display beneath Library playtime stats.
+
+  • Fix for CPU issues in Library.
+
+  • Minor bug fixes.
+
+
+
+   -- v2013-1106 CLIENT BETA  (6th of November 2013)
+   =========================
+
+     • More Download page fixes.
+
+     • Fixed CPU issues in Library (hopefully permanently).
+
+     • Notification tweaks should now carry over to the ingame overlay whenever possible.
+
+
+
+-- v2013-1101  (1st of November 2013)
+=============
+
+  • Notification fixes.
+
+  • Downloads page fixes.
+
+  • Family Sharing fixes.
+
+  • Fixed results counter display on the HTML Find Bar.
+
+  • Added several tweaks to control positioning of notification popups.
+
+  • Added hover & down states to the client's back/forward buttons.
+
+
+
+   -- v2013-1030 CLIENT BETA  (30th of October 2013)
+   =========================
+
+     • Fixed results counter display on the HTML Find Bar.
+
+     • Fixed time completed display on the Downloads page.
+
+     • Fixed Friends List hover effect in non-avatar view.
+
+     • First attempt at correcting CPU usage bug affecting some users in Library.
+
+
+
+   -- v2013-1026 CLIENT BETA  (26th of October 2013)
+   =========================
+
+     • More Download page fixes from the latest Client Beta update.
+
+
+
+   -- v2013-1024 CLIENT BETA  (24th of October 2013)
+   =========================
+
+     • Addressed Download page changes from the latest Client Beta update.
+
+
+
+   -- v2013-1021 CLIENT BETA  (21st of October 2013)
+   =========================
+
+     • Family Sharing Beta fixes.
+
+     • Notification fixes.
+
+
+
+   -- v2013-1015 CLIENT BETA  (15th of October 2013)
+   =========================
+
+     • Implemented Download page changes from the latest Steam Client beta.
+
+
+
+-- v2013-1009  (9th of October 2013)
+=============
+
+  • Changed playtime stat labels to lowercase.
+
+  • Added a new fix/tweak in settings.ini for those with truncated game headers (FEZ and others).
+
+  • Friends list should now be navigable by keyboard using tab and arrow keys.
+
+  • Moved the throbber in the game launch dialog to avoid collision in certain cases.
+
+  • Skinned the 'Go Online' dialog (offline mode).
+
+
+
+   -- v2013-0921 CLIENT BETA  (21st of September 2013)
+   =========================
+
+     • Moved playtime stats next to launch button as per the latest Client Beta update.
+
+
+
+   -- v2013-0912 CLIENT BETA  (12th of September 2013)
+   =========================
+
+     • Simpler date-based version numbering format.
+
+     • Fixed the positioning of the new STATS items in the Library's Details view.
+
+     • Added a new fix/tweak in settings.ini for those with truncated game headers (FEZ and others).
+
+     • Friends list should now be navigable by keyboard using tab and arrow keys.
+
+     • Moved the throbber in the game launch dialog to avoid collision in certain cases.
+
+     • Skinned the 'Go Online' dialog (offline mode).
+
+
+
+-- v.1.9.7  (26th of June 2013)
+==========
+
+  • Added the new button that allows access to emoticons in chats.
+
+  • Repositioned the Steam Workshop download panel's 'VIEW' button.
+
+
+
+   -- v.1.9.7 TRADING CARD BETA 1  (16th of May 2013)
+   ==============================
+
+     • Added the new button that allows access to emoticons in chats.
+
+     • Repositioned the Steam Workshop download panel's 'VIEW' button.
+
+     • Fixed a bug causing games with short names (Ys, FEZ, ...) to be truncated.
+
+     • Adjusted the elements of the game launch & first time installation dialogs.
+
+
+
+-- v.1.9.6  (7th of May 2013)
+==========
+
+  • Implemented the new status icons to the friends list for BPM, Mobile & Web Chat.
+
+  • Added the new 'View' button to the workshop download panel.
+
+  • Removed the 'new' tag above the username tab on the main interface.
+
+  • Minor bug fixes (see CLIENT BETA sections below).
+
+
+
+   -- v.1.9.6 CLIENT BETA 2  (2nd of May 2013)
+   ========================
+
+     • Implemented the new status icons to the friends list for BPM, Mobile & Web Chat.
+
+     • Fixed the password-strength meter's miss aligned border in account creation.
+
+     • Removed the 'new' tag above the username tab on the main interface.
+
+
+
+   -- v.1.9.6 CLIENT BETA 1  (25th of April 2013)
+   ========================
+
+     • Added the new 'View' button to the workshop download panel.
+
+     • Limited the width of the 'Web Browser' button to avoid overlap in some translations.
+
+     • Further adjustments to the overlay battery indicator.
+
+
+
+-- v.1.9.5  (20th of March 2013)
+==========
+
+  • Added support for the latest client update.
+
+  • Updated icon alignment to match new tabs in all languages.
+
+  • Further tweaks to the overlay's battery indicator (feedback welcome).
+
+  • Added a missing community link to the _lores overlay.
+
+
+
+   -- v.1.9.5 BETA 1  (5th of March 2013)
+   =================
+
+     • Added support for the ongoing Steam Client beta.
+
+     • Updated icon alignment to match new tabs in all languages.
+
+     • Realigned portable's overlay battery indicator (needs testing and feedback).
+
+
+
+-- v.1.9.4  (21st of February 2013)
+==========
+
+  • Added alternative layout files for the overlay at lower resolutions.
+
+  • Adjusted the new Chat History to the skin's colour scheme.
+
+  • Corrected an issue causing tooltips to cross-fade.
+
+  • Several minor bug fixes (see 1.9.4 beta 1 notes).
+
+
+
+   -- v.1.9.4 BETA 1  (24th of January 2013)
+   =================
+
+     • Minor colour tweaks to the new Chat History.
+
+     • Implemented three new tweaks affecting the Overlay's background.
+
+     • Fixed a bug occurring in the low-resolution Overlay involving the friends panel.
+
+     • Small update to the navigation icon alignment for Simplified and Traditional Chinese.
+
+
+
+-- v.1.9.3  (18th of January 2013)
+==========
+
+  • Updated for the new Community Guides.
+
+  • Completely redesigned the in-game Overlay.
+
+  • Fixed a spacing bug occurring in the Library's Workshop tooltips.
+
+  • Fixed an unskinned popup in the HTML tabs (Store, News, Community).
+
+  • Fixed a bug causing contents to overlap at the top of the Library.
+
+  • Fixed a visual bug near the account link when using font tweaks.
+
+
+
+   -- v.1.9.3 BETA 2  (13th of January 2013)
+   =================
+
+     • Completely redesigned the in-game Overlay.
+
+     • Fixed a spacing bug occurring in the Library's Workshop tooltips.
+
+
+
+   -- v.1.9.3 BETA 1  (9th of January 2013)
+   =================
+
+     • Implemented the new elements in the Overlay.
+
+     • Implemented the new 'Community Guides' links in Library and Overlay.
+
+     • Fixed a bug causing contents to overlap at the top of the Library.
+
+     • Reverted the Clock on the Overlay to avoid it getting truncated.
+
+     • Fixed a visual bug near the account link when using font tweaks.
+
+     • Fixed occasional bug on web scrollbar backgrounds.
+
+
+
+-- v.1.9.2  (3rd of December 2012)
+==========
+
+  • Implemented a simplified version of Steam's new Big Picture Mode button.
+
+  • Added the new Spoiler checkbox to the Screenshot Manager.
+
+  • Skinned the new download panel for Workshop content downloads.
+
+  • Removed frame minimise and maximise buttons from chat dialogs in the overlay.
+
+  • Updated Chinese locale navigation icons.
+
+  • Fixed the overlay clock getting truncated when using a font tweak.
+
+  • Fixed an overlap that occurred with the user-list in Chat Rooms.
+
+  • Several bug fixes (refer to individual 1.9.2 beta notes in ChangeLog).
+
+
+
+   -- v.1.9.2 BETA 4  (1st of November 2012)
+   =================
+
+     • Added the new Spoiler checkbox to the Screenshot Manager.
+
+
+
+   -- v.1.9.2 BETA 3  (30th of September 2012)
+   =================
+
+     • Skinned the new download panel for Workshop content downloads.
+
+     • Limited the workshop description to avoid collision with the view content link.
+
+
+
+   -- v.1.9.2 BETA 2  (21st of September 2012)
+   =================
+
+     • Changed the hues of the Big Picture button to better suit the skin.
+
+     • Fixed the most recent achievement icon being truncated.
+
+     • Moved the support alert notice up into the title bar.
+
+     • Skinned the new community pop-up dialogs.
+
+     • Skinned the low res version of the overlay.
+
+     • Fixed the overlay clock moving around.
+
+
+
+   -- v.1.9.2 BETA 1  (11th of September 2012)
+   =================
+
+     • Added a simplified version of Steam's new Big Picture Mode button on the main interface.
+
+     • Added a limit to the maximum width of content within the Library's detailed view.
+       This limit is 1456 px and will only affect users at 1920x1080 using Steam maximised.
+
+
+
+-- v.1.9.1  (6th of September 2012)
+==========
+
+  • Removed the broken 'Friends' navigation tab.
+
+  • Added an alternative layout file for having a single row of Community links.
+
+
+
+-- v.1.9  (5th of September 2012)
+========
+
+  • Integrated the features of the new Steam Community update.
+
+  • Centred the speech bubble and username in chat tabs.
+
+  • Added icon alignment fix for Greek users.
+
+  • Polished support alert notice.
+
+  • Added a tweak to fade uninstalled items in the Library's grid view.
+
+  • Included an alternative uinavigatorpanel.layout that moves the mini tabs below Community.
+
+
+
+   -- v.1.9 BETA 4  (3rd of September 2012)
+   ===============
+
+     • Fixed the Community tab's sub-navigation entries.
+
+     • Added the Game Hub button to the Library's details view.
+
+     • Added the Game Hub link to the Overlay.
+
+     • Included an alternative uinavigatorpanel.layout that moves the mini tabs below Community.
+
+
+
+   -- v.1.9 BETA 3  (22nd of August 2012)
+   ===============
+
+     • Fixed alignment issues in the main interface.
+
+     • Updated icon alignment for all languages.
+
+     • Added the Community's mini-tabs implemented in the last Steam update.
+
+     • Added the ability to fade uninstalled items in the Library's Grid view via settings.ini.
+
+
+
+   -- v.1.9 BETA 2  (17th of August 2012)
+   ===============
+
+     • Updated icon alignment fix for all languages.
+
+     • Added icon alignment fix for Greek users.
+
+     • Polished support alert notice.
+
+     • Uninstalled items in Library grid view will now appear slightly faded.
+
+
+
+   -- v.1.9 BETA 1  (16th of August 2012)
+   ===============
+
+     • Updated the navigation tabs and all the new stuff around them.
+
+     • Added the 'Game Hub' link in library details.
+
+
+
+-- v.1.8.5b  (1st/2nd of August 2012)
+===========
+
+  • Polished the new account link / menu.
+
+  • The inbox and friends counter have been swapped around to avoid collision in certain languages.
+
+  • Updated menus to include the latest user states (Looking to Play / Trade).
+
+  • 1.8.5a: realigned the Steam Wallet balance.
+
+  • 1.8.6b: the arrow to the right of the account name should no longer vary with username length.
+
+
+
+-- v.1.8.4  (22nd of June 2012)
+==========
+
+  • Updated the locale fix (icon alignment) for Dutch users.
+
+
+
+-- v.1.8.3  (20th of May 2012)
+==========
+
+  • Added the missing entry for Redeeming a Steam Wallet Voucher in the 'Games' menu.
+
+  • Single Menu also updated.
+
+
+
+-- v.1.8.2  (30th of March 2012)
+==========
+
+  • Added a background to scrollbars on HTML pages.
+
+  • Slightly increased the contrast between sent and received messages in chats.
+
+  • Included an alternative menu file for those who wish to use a single Steam menu.
+
+  • Fixed a minor display bug with the URL bar's background on the main client.
+
+
+
+-- v.1.8.1  (14th of March 2012)
+==========
+
+  • Added the new search bar to the Friends List.
+
+  • Integrated the new display for web certificates.
+
+  • Updated the menus to include any missing entries from recent updates.
+
+  • Fixed a bug that caused the Workshop's contents to overlap before any items had been loaded.
+
+  • Added a new tweak to limit the Steam Piston to the title bar.
+
+
+
+-- v.1.8  (18th of February 2012)
+========
+
+  • Fixed an issue that could cause Steam to freeze upon login or opening several chat tabs.
+
+  • Integrated the new 'Email Verification Reminder' bar.
+
+  • Updated the 'Steam Workshop' section in the Library.
+
+  • Reduced the space between lines in friend chats.
+
+
+
+   -- v.1.8 beta 2  (14th of February 2012)
+   ===============
+
+     • Second batch of changes attempting to solve the freeze up issues.
+
+     • Reduced the space between lines in friend chats.
+
+
+
+   -- v.1.8 beta 1  (31st of January 2012)
+   ===============
+
+     • First batch of changes attempting to solve the freeze up issues.
+
+     • Integrated the new 'Email Verification Reminder' bar.
+
+     • Updated the 'Steam Workshop' section in the Library.
+
+
+
+-- v.1.7.1  (24th of January 2012)
+==========
+
+  • Fixed a visual bug involving the Steam Wallet balance's display.
+
+
+
+-- v.1.7  (13th of December 2011)
+========
+
+  • Implemented the new Inbox Button and Community Files section.
+
+  • Implemented a new system that should make managing Tweaks a lot easier.
+
+  • New tweaks are available (namely a Text size tweak).
+
+  • Tabs have been redesigned.
+
+  • Several parts of the UI have been polished (Login, Screenshots, Chat, Library, Downloads, Notifications, ...).
+
+  • The main client's back/forward buttons have been vertically aligned with the navigation links.
+
+  • The user-avatar on the main client has been vertically aligned.
+
+  • Fixed misalignments on the CD Key Notification and Product Activation pages.
+
+  • Fixed menu and tab items being occasionally truncated.
+
+  • Several minor touch ups, adjustments & bug fixes.
+
+
+
+   -- v.1.7 beta 3  (12th of December 2011)
+   ===============
+
+     • Redesigned the Inbox Button.
+
+     • Integrated the TF2 Workshop / Community Files into the layout.
+
+     • Font size of certain labels on the Downloads page have been locked to prevent alignment issues when using a font size tweak.
+
+     • Several minor changes.
+
+
+
+   -- v.1.7 beta 2  (8th of December 2011)
+   ===============
+
+     • Added the Inbox Button as well as the new Notifications for Items and Gifts.
+
+     • Vertically aligned the user-avatar on the main screen and removed the tweak to that effect.
+
+     • Added several new tweaks (to remove the Game Title underline; to remove the colour on browser buttons).
+
+     • Fixed context menus having excessive space to the right in the Library's game-list.
+
+     • Fixed an issue preventing the 'View Online' button from being clicked in Screenshot Manager.
+
+     • Fixed an alignment issue affecting the scrollbar on the Downloads page.
+
+
+
+   -- v.1.7 beta 1  (30th of November 2011)
+   ===============
+
+     • Implemented a new system that should make managing Tweaks a lot easier.
+
+     • New tweaks are available (Text size tweak, avatar vertical centre).
+
+     • Tabs have been redesigned.
+
+     • Several parts of the UI have been polished (Login, Screenshots, Chat, Library, Downloads, Notifications, ...).
+
+     • The main client's back/forward buttons have been vertically aligned with the navigation links.
+
+     • Fixed misalignments on the CD Key Notification and Product Activation pages.
+
+     • Fixed menu and tab items being occasionally truncated.
+
+     • Several minor touch ups, adjustments & bug fixes.
+
+
+
+-- v.1.6.1   (25th of September 2011)
+==========
+
+  • Removed the uppercase category header tweak.
+
+  • Category headers in the Library's List View should no longer be stuck on uppercase.
+
+  • The strength meter on the change password screen should no longer be miss-aligned.
+
+  • Items on the downloads page should no longer have a limited width.
+
+  • Minor adjustments made to the Console Page.
+
+
+
+-- v.1.6   (7th of September 2011)
+========
+
+  • Compatible with the new Trade Update features.
+
+  • Layout files updated to the latest release of Steam (September 5th).
+
+  • New Friends List and friend hover effects.
+
+  • New notifications.
+
+  • New avatar borders.
+
+  • Friend online and in-game colours are now slightly more vivid and match the new avatar borders.
+
+  • Tons of minor modifications, alignment and bug fixes (details below marked [TRADE BETA]).
+
+  • Added a language fix for both new locales (Bulgarian & Portuguese-Brazil).
+
+  • Some new Tweaks have been added (to remove the Steam Piston and to vertically centre the avatar).
+
+  • Removed the "Start Voice Chat/Invite to Chat" buttons Tweak as a result of them being removed.
+
+  • All tweaks have been updated and had their readme files redesigned.
+
+
+
+   -- v.1.6b5 [TRADE BETA]   (31st of August 2011)
+   =======================
+
+     • Changed the colour of the Overlay's online friends counter.
+
+     • Fixed the Overlay's CD-Key Notification having a transparent background.
+
+     • Tweaked the visibility of the screenshot overlay's background image a bit.
+
+     • Inverted the way the Piston Tweak works. The Piston is back by default, and the Tweak now removes it.
+
+
+
+   -- v.1.6b4 [TRADE BETA]   (18th of August 2011)
+   =======================
+
+     • Polished/aligned the Update News dialog.
+
+     • Fixed notification hotkey labels not having a background.
+
+     • Added the arrow next to the Friends menu on the Friends List implemented in the latest beta update.
+
+
+
+   -- v.1.6b3 [TRADE BETA]   (17th of August 2011)
+   =======================
+
+     • Notifications have finally been customised, background silhouettes still need some work.
+
+     • Avatar borders have been modified to be a bit less bulky. Colour has been adjusted too.
+
+     • Friend online and in-game colours are now slightly more vivid and match the new avatar borders.
+
+     • Friend hover effects in the Friends List have been completely redone.
+
+     • Speech bubbles in a friend's chat tab have been replaced by a smoother icon.
+
+     • Removed the Steam Piston from the upper-right hand side of the client.
+
+     • Added a tweak to reinstate the good ol' Steam Piston for those who miss it.
+
+     • Added a how-to Tweak to vertically centre the Avatar on Steam's main window.
+
+     • Tweak readmes have been completely redesigned.
+
+     • Cleaned up some more bulk from the layout files.
+
+
+
+   -- v.1.6b2 [TRADE BETA]   (13th of August 2011)
+   =======================
+
+     • Self-Avatar has been repositioned on the Friends List and no longer has a hover effect.
+
+     • Several minor adjustments have been made to the Friends List (both Avatar and non-Avatar views).
+
+
+
+   -- v.1.6b1 [TRADE BETA]   (11th of August 2011)
+   =======================
+
+     • Layout files updated to the latest release - Steam Trade Update (August 9th).
+
+     • Added a language fix for both new locales (Bulgarian & Portuguese-Brazil).
+
+     • Fixed the new Friends List. Tabs and Groups should now display correctly.
+
+     • Fixed the new 'master' drop down menu/button in Friend Chats and Chat Rooms.
+
+     • Fixed the new Trade Invite/Request Bar's position and display in Chat panels.
+
+     • Extended the slim Frame Title image so that it doesn't fade early on certain panels.
+
+     • Fixed an alignment issue with the new Friend Groups management dialog.
+
+     • Fixed an alignment issue with the Friend List's title bar.
+
+     • Fixed an alignment issue with the Close Window button's background glow.
+
+     • Removed the Voice Chat positioning Tweak as a consequence of the new Chat button layout.
+
+     • Updated Tweaks to correctly function with the new features.
+
+
+
+-- v.1.5   (13th of July 2011)
+========
+
+  • Layout files updated to the latest release of Steam (July 12th).
+
+  • Fixed the new HTML Find Box not appearing when pressing CTRL+F on a webpage.
+
+  • Fixed miss-alignments in the new Suggested Facebook Friends on the Friends List.
+
+  • The Add Friend button at the bottom of the Friends List should no longer truncate the label's text.
+
+  • The Invite Friend to Game dialog that sometimes pops up in the Overlay is now properly styled.
+
+  • Removed the Steam's default blue border around the bottom right of the client.
+
+  • Updated the ReadMe's FAQ with some more common questions/issues.
+
+
+
+-- v.1.4.2   (14th of June 2011)
+==========
+
+  • Fixed the Game Invite Bar's position and display in the Friend Chat panel.
+
+  • Fixed an issue where some buttons weren't retaining their intended height in certain languages.
+
+
+
+-- v.1.4.1   (9th of June 2011)
+==========
+
+  • Changed the colour of the online friends counter for better visibility.
+
+
+
+-- v.1.4   (7th of June 2011)
+========
+
+  • Several tweaks have been added for those who wish to use them.
+
+  • Added a tweak that makes the text everywhere 1 to 2px larger.
+
+  • Added a tweak that removes VIEW FRIENDS and gives that function to the online friends counter.
+
+  • Added a minor tweak that explains how to change the case of the VIEW FRIENDS link.
+
+  • Added a minor tweak that removes the red background glow on the close window button.
+
+  • Changed the language fix so that it doesn't interfere with certain other tweaks.
+
+  • Polished some remaining bulk from a few layout files.
+
+
+
+-- v.1.3   (6th of June 2011)
+========
+
+  • Added a tweak that will fix navigation icon miss-alignment issues for all 22 languages.
+
+  • Buttons in Chat dialogs should no longer have a fixed width and cause languages with longer translations to get cut off.
+
+  • The links on the download page should no longer run into each other and/or the download graph in certain languages. They
+    might get cut off early instead, but it's better than the alternative.
+
+  • Added hover hues to the install and play buttons on the Library Details page.
+
+  • Added the option to Restart Steam to Steam's main menu.
+
+
+
+-- v.1.2.1   (4th of June 2011)
+==========
+
+  • tiny fix regarding the progress bar's inset on the Downloads page.
+
+
+
+-- v.1.2   (4th of June 2011)
+========
+
+  • Simplified the installation so that only a single folder needs to be extracted to Steam's "skins" directory.
+
+  • As a result there were some minor drawbacks:
+     • There's no longer an icon for the Console navigation item, but the majority of users won't have any reason
+       to be running steam in -dev mode anyway.
+     • There's a bit of a gap between items on the Downloads page now.
+
+  • Added a Tweak with detailed instructions on how to remove the gap between items on the Downloads page for those
+    whom it really bothers.
+
+
+
+-- v.1.1   (3rd of June 2011)
+========
+
+  • Fixed a progress bar miss-alignment in the Game Activation wizard.
+
+  • Lowered the Friends, News, Achievements and Screenshots panels in the InGame Overlay as far as possible without
+    causing an overlap on non-widescreen resolutions.
+
+  • Changed the Category Header text from displaying in uppercase to regular by default.
+
+  • Added a Tweaks folder, allowing very mild customisation of certain areas. So far, an all-caps tweak for Category
+    Header text, and a tweak to realign the Voice Chat button beneath the invite one in Chat dialogs.
+
+
+
+-- v.1.0   (2nd of June 2011)
+========
+
+  • First public release.
