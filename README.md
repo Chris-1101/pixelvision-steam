@@ -6,7 +6,7 @@ This version should be considered deprecated in favour of the community driven [
 
 Steam is constantly updated with new features that regularly break skins. This is inevitable due to the way skinning Steam's interface works. This version of PixelVision has not been updated since I discontinued the original project in 2015. Though reports suggest that it still functions, it may be lacking recent interface additions at this point.
 
-## Mentions \& Reviews
+## Notable Mentions
 * [PC Gamer](https://www.pcgamer.com/the-best-steam-skins/2/)
 > Pixelvision is no longer updated, but the skin still works. The metallic hatching and translucent tesselated hex-wall on the overlay are still great touches, even if the fonts seem a little outdated. Pixelvision delivers a clean, serious look in the same vein as Metro and Air, but with a a subtle bluish tint that gives the skin a bit more attitude.
 * [Rock Paper Shotgun](https://www.rockpapershotgun.com/2017/07/11/the-best-steam-skins/)
