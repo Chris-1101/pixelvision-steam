@@ -12,4 +12,4 @@ Steam is constantly updated with new features that regularly break skins. This i
 * [Rock Paper Shotgun](https://www.rockpapershotgun.com/2017/07/11/the-best-steam-skins/)
 > The original Pixelvision was a skin I found uncomfy, mostly because of the small font size, but it has its own group of aficionados. It stopped being updated by its creator back in 2015 and I think Pressure ended up being touted as a potential replacement. Since I last checked in a new dev has taken on the challenge of keeping the skin up-to-date while maintaining the simplicity resulting in PixelVision². I prefer my Steam skins lighter these days, but it’s a decent darker option if you’re in the mood for that plus I prefer some of the menu organisation.
 ---
-![PixelVision for Steam](https://i.imgur.com/ljlV04I.png)
+![PixelVision for Steam](https://image.ibb.co/haexqH/preview.png)
